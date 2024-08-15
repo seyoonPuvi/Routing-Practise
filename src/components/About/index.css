@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+:root {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: roboto;
+}
+
+.home-cont {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home img {
+  height: 20rem;
+  width: 20rem;
+}
+
+.home h1 {
+  color: #6d396b;
+  font-size: 5rem;
+  text-align: center;
+}
